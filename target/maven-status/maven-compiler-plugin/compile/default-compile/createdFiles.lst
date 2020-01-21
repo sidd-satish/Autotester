@@ -1,0 +1,12 @@
+com/nus/soc/autotester/QueryManager.class
+com/nus/soc/autotester/Query.class
+com/nus/soc/autotester/ITestWrapper.class
+com/nus/soc/autotester/Application$2.class
+com/nus/soc/autotester/IQuery.class
+com/nus/soc/autotester/Application.class
+com/nus/soc/autotester/MyWrapper.class
+com/nus/soc/autotester/ITokenizer.class
+com/nus/soc/autotester/Application$1.class
+com/nus/soc/autotester/IAbstractWrapper.class
+com/nus/soc/autotester/Tokenizer.class
+com/nus/soc/autotester/IQueryManager.class
