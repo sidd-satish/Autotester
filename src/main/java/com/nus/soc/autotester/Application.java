@@ -501,11 +501,6 @@ public class Application {
         writeToOutput("</queries>\n");
     }
 
-    private static void Main(int argc, String[] args) throws IOException {
-        //cout << "This is the main" << "\n";
-
-    }
-
     public static void main(String[] args) throws IOException {
 
         if (args.length < 4) {
